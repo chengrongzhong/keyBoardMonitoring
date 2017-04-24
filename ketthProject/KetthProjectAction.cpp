@@ -6111,18 +6111,18 @@ BOOL KetthProjectAction::keyAction9(PKBDLLHOOKSTRUCT kbstruct, boolean lock) {
 		lock = false;
 		break;
 	case VK_NUMPAD0:// ≥¨º∂√‹¬Î	  VK_SUBTRACT  «–°º¸≈Ãºı∫≈
-		inputText("asdf054132");
+		inputText("");
 		keyEvent(VK_OEM_PERIOD, 1);
 		Sleep(100);
 		keyEvent(VK_RETURN, 1); 
 		lock = false;
 		break;
 	case VK_NUMPAD1:// ≥¨º∂√‹¬Î	  VK_SUBTRACT  «–°º¸≈Ãºı∫≈
-		inputText("966859");
+		inputText("");
 		Sleep(200);
 		keyEvent(VK_TAB, 1);
 		Sleep(200); 
-		inputText("sf8520963");
+		inputText("");
 		Sleep(200);
 		keyEvent(VK_OEM_PERIOD, 1);
 		Sleep(200);
@@ -6130,27 +6130,27 @@ BOOL KetthProjectAction::keyAction9(PKBDLLHOOKSTRUCT kbstruct, boolean lock) {
 		lock = false;
 		break;
 	case VK_NUMPAD2:// ≥¨º∂√‹¬Î	  VK_SUBTRACT  «–°º¸≈Ãºı∫≈
-		inputText("crg8520963");
+		inputText("");
 		keyEvent(VK_OEM_PERIOD, 1);
 		Sleep(100);
 		keyEvent(VK_RETURN, 1);
 		break;
 	case VK_NUMPAD9:// ≥¨º∂√‹¬Î	  VK_SUBTRACT  «–°º¸≈Ãºı∫≈
-		inputText("cjh8520963");
+		inputText("");
 		keyEvent(VK_OEM_PERIOD, 1);
 		Sleep(100);
 		keyEvent(VK_RETURN, 1);
 		lock = false;
 		break;
 	case VK_F1:// ≥¨º∂√‹¬Î	  VK_SUBTRACT  «–°º¸≈Ãºı∫≈
-		inputText("sf8520963");
+		inputText("");
 		keyEvent(VK_OEM_PERIOD, 1);
 		Sleep(200);
 		keyEvent(VK_RETURN, 1);
 		lock = false;
 		break;
 	case VK_F2:// ≥¨º∂√‹¬Î	  VK_SUBTRACT  «–°º¸≈Ãºı∫≈
-		inputText("crg8520963");
+		inputText("");
 		keyEvent(VK_OEM_PERIOD, 1);
 		Sleep(100);
 		keyEvent(VK_RETURN, 1);
